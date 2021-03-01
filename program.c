@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /* Karoliina Aaltonen 01032021*/
 
 #include <stdio.h>
